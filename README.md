@@ -1,2 +1,2 @@
-# affis
-Membuat bot wa ala Eren BOT
+# Anggan
+Commad belum selesai
